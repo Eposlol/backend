@@ -1,0 +1,6 @@
+Frontend:
+    В папке frontend консоль: "npm install", затем: "npm run serve".
+
+Backend: 
+    В папке backend консоль: "npm install", затем: "npm run start".
+
